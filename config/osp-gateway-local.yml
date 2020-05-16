@@ -13,7 +13,7 @@
 #       min-idle: 5       # 连接池中的最小空闲连接
 
 config:
-  test: local
+  test: localtest
 com: 
   tx:
     gateway: 
