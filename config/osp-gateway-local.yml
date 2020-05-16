@@ -14,3 +14,7 @@ spring:
 
 config:
   test: local
+com: 
+  tx:
+    gateway: 
+        config: local
